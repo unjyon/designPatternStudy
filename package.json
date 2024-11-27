@@ -1,0 +1,15 @@
+{
+  "name": "designpatternstudy",
+  "version": "1.0.0",
+  "description": "강의 : https://www.youtube.com/watch?v=mC3iWfS10a4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.7.2"
+  }
+}
